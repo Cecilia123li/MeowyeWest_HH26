@@ -8,7 +8,7 @@ MeowYe is an infinite-runner wild west inspired game where players can play as a
 - Hardware: A working webcam
 
 ## Installation Instructions:
-1. Download the .exe(.zip?) from the latest release.
+1. Download the .zip file from the latest release.
 2. Extract the folder to your preferred location
 3. Ensure the webcam is functional
 4. Double click the .exe to load the game!
