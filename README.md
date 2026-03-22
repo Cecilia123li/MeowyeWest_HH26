@@ -3,9 +3,10 @@
 ## Description:
 An infinite-runner wild west inspired cat game. 
 
-## System/Environment Requirements:
+## Game System/Environment Requirements:
 - Windows 64-bit
-- Unity 6.4
+
+## Computer Vision Requirements:
 - A working camera
 
 ## Installation Instructions(?):
