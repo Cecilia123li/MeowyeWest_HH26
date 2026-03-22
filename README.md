@@ -1,7 +1,7 @@
 # MeowYe West
 
 ## Description:
-An infinite runner wild west inspired cat game. 
+An infinite-runner wild west inspired cat game. 
 
 ## System/Environment Requirements:
 - Windows 64-bit
@@ -11,6 +11,7 @@ An infinite runner wild west inspired cat game.
 ## Installation Instructions(?):
 
 ## How to play:
+- Double click the .exe file to run MeowYe West!
 
 
 
